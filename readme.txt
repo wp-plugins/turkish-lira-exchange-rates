@@ -42,7 +42,7 @@ The plugin does not add any calculations or any other modifications on the data.
 
 == Screenshots ==
 
-/tags/1/turkish-lira-exchange-rates.png
+1- Screenshot
 
 == Changelog ==
 v1.0 26.06.2009 initial release
