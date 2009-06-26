@@ -86,9 +86,8 @@ $display_credit = isset( $instance['display_credit'] ) ? $instance['display_cred
 #currency div.c_row .SEK{background:transparent url(wp-content/plugins/turkish-lira-exchange-rates/SEK.gif) no-repeat scroll 0 3px;padding-left:20px;}
 #currency div.c_row .USD{background:transparent url(wp-content/plugins/turkish-lira-exchange-rates/USD.gif) no-repeat scroll 0 3px;padding-left:20px;}
 #currency div.c_info{font-size:0.9em;color:#999;clear:both;text-align:center;font-weight:bold;}
-#currency div.c_credit{font-size:0.9em;color:#999;clear:both;text-align:center;font-weight:bold;}
+#currency div.c_credit{font-size:0.9em;color:#999;clear:both;text-align:center;font-weight:bold;display:none;}
 #currency div.c_credit a{color:#369;clear:both;text-align:center;font-weight:bold;}
-#currency div.c_hide a{display:none;}
 </style>';
 		$rates=fopen("http://www.tcmb.gov.tr/kurlar/today.html","r") or die ("Something is wrong");
 		$AUD="AUD/TRY";
