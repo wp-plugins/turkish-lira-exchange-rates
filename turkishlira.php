@@ -67,7 +67,7 @@ $display_credit = isset( $instance['display_credit'] ) ? $instance['display_cred
 <style type="text/css">
 #currency {margin:0 auto;}
 #currency div.c_header {clear:both;height:17px;}
-#currency div.c_row{font-size:1em;height:17px;padding:0;font-weight:bold;clear:both;}
+#currency div.c_row{font-size:1em;height:17px;padding:0;font-weight:normal;clear:both;}
 #currency div.odd {background:#efefef;}
 #currency div.c_row .c_symbol{float:left;}
 #currency div.difi{background:#efefef;}
