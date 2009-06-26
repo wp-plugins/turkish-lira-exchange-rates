@@ -16,11 +16,7 @@ Display the daily exchange rates from the Central Bank of Turkey (Türkiye Cumhur
 
 Turkish Lira Exchange Rates are gathered from The Central Bank of Turkey.
 
-Currency codes; Australian Dollar (AUD), Canadian Dollar (CAD), Swiss Franc (CHF), Swiss Franc (CHF), European Union 
-
-Euro (EUR), European Union Euro (EUR), Japanese Yen (JPY), Kuwaiti Dinar (KWD), Norwegian Krone (NOK), Saudi Riyal 
-
-(SAR), Swedish Krona (SEK), United States Dollar (USD)
+Currency codes; Australian Dollar (AUD), Canadian Dollar (CAD), Swiss Franc (CHF), Swiss Franc (CHF), European Union Euro (EUR), European Union Euro (EUR), Japanese Yen (JPY), Kuwaiti Dinar (KWD), Norwegian Krone (NOK), Saudi Riyal (SAR), Swedish Krona (SEK), United States Dollar (USD)
 
 You can see the working demo here [Turkish Lira Exchange Rates](http://www.iwasinturkey.com/turkish-lira-exchange-rates "Turkish Lira Exchange Rates")  and download here [gadgets](http://blog.iwasinturkey.com/category/gadgets "gadgets")
 
