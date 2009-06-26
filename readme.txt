@@ -4,7 +4,7 @@ Donate link: http://www.iwasinturkey.com/buy-us-a-beer
 Tags: turkish,lira,currency,exchange rates,YTL,TL
 Requires at least: 2.8
 Tested up to: 2.8
-Stable tag: 1
+Stable tag: 1.0
 
 Display the daily exchange rates from the Central Bank of Turkey (Türkiye Cumhuriyet Merkez Bankasi).
 
@@ -33,15 +33,11 @@ You can see the working demo here [Turkish Lira Exchange Rates](http://www.iwasi
 
 == Frequently Asked Questions ==
 
-=Where does the data come from?=
+= Where does the data come from? =
 Central Bank of Turkey (Türkiye Cumhuriyet Merkez Bankasi)
 
-=How accurate is it?=
-The plugin does not add any calculations or any other modifications on the data. It just displays the data from the 
-
-daily currency page of Central Bank of Turkey(Türkiye Cumhuriyet Merkez Bankasi).So it is 100% percent accurate 
-
-according to the bank Rates.
+= How accurate is it? =
+The plugin does not add any calculations or any other modifications on the data. It just displays the data from the daily currency page of Central Bank of Turkey(Türkiye Cumhuriyet Merkez Bankasi).So it is 100% percent accurate according to the bank Rates.
 
 
 == Screenshots ==
@@ -49,4 +45,4 @@ according to the bank Rates.
 /tags/1/turkish-lira-exchange-rates.png
 
 == Changelog ==
-v1 26.06.2009 initial release
+v1.0 26.06.2009 initial release
