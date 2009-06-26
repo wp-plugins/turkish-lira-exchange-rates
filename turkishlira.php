@@ -4,7 +4,7 @@ Plugin Name: Turkish Lira Exchange Rates
 Plugin URI: http://www.iwasinturkey.com/turkish-lira-exchange-rates
 Description: Display daily exchange rates from the Central Bank of Turkey (Türkiye Cumhuriyet Merkez Bankasi).
 Author: Onur Kocatas
-Version: 1.0
+Version: 1.1
 Author URI: http://www.iwasinturkey.com
 */
 
@@ -70,20 +70,21 @@ $display_credit = isset( $instance['display_credit'] ) ? $instance['display_cred
 #currency div.c_row{font-size:1em;height:17px;padding:0;font-weight:bold;clear:both;}
 #currency div.odd {background:#efefef;}
 #currency div.c_row .c_symbol{float:left;}
+#currency div.difi{background:#efefef;}
 #currency div.c_row div.c_rate{width:50px;float:right;text-align:right;padding:0px 4px;}
 #currency div.c_header div.c_rate{width:50px;float:right;text-align:center;font-weight:bold;padding:0px;}
-#currency div.c_row .AUD{background:transparent url(wp-content/plugins/turkishlira/images/AUD.gif) no-repeat scroll 0 3px;padding-left:20px;}
-#currency div.c_row .CAD{background:transparent url(wp-content/plugins/turkishlira/images/CAD.gif) no-repeat scroll 0 3px;padding-left:20px;}
-#currency div.c_row .CHF{background:transparent url(wp-content/plugins/turkishlira/images/CHF.gif) no-repeat scroll 0 3px;padding-left:20px;}
-#currency div.c_row .DKK{background:transparent url(wp-content/plugins/turkishlira/images/DKK.gif) no-repeat scroll 0 3px;padding-left:20px;}
-#currency div.c_row .EUR{background:transparent url(wp-content/plugins/turkishlira/images/EUR.gif) no-repeat scroll 0 3px;padding-left:20px;}
-#currency div.c_row .GBP{background:transparent url(wp-content/plugins/turkishlira/images/GBP.gif) no-repeat scroll 0 3px;padding-left:20px;}
-#currency div.c_row .JPY{background:transparent url(wp-content/plugins/turkishlira/images/JPY.gif) no-repeat scroll 0 3px;padding-left:20px;}
-#currency div.c_row .KWD{background:transparent url(wp-content/plugins/turkishlira/images/KWD.gif) no-repeat scroll 0 3px;padding-left:20px;}
-#currency div.c_row .NOK{background:transparent url(wp-content/plugins/turkishlira/images/NOK.gif) no-repeat scroll 0 3px;padding-left:20px;}
-#currency div.c_row .SAR{background:transparent url(wp-content/plugins/turkishlira/images/SAR.gif) no-repeat scroll 0 3px;padding-left:20px;}
-#currency div.c_row .SEK{background:transparent url(wp-content/plugins/turkishlira/images/SEK.gif) no-repeat scroll 0 3px;padding-left:20px;}
-#currency div.c_row .USD{background:transparent url(wp-content/plugins/turkishlira/images/USD.gif) no-repeat scroll 0 3px;padding-left:20px;}
+#currency div.c_row .AUD{background:transparent url(wp-content/plugins/turkish-lira-exchange-rates/images/AUD.gif) no-repeat scroll 0 3px;padding-left:20px;}
+#currency div.c_row .CAD{background:transparent url(wp-content/plugins/turkish-lira-exchange-rates/images/CAD.gif) no-repeat scroll 0 3px;padding-left:20px;}
+#currency div.c_row .CHF{background:transparent url(wp-content/plugins/turkish-lira-exchange-rates/images/CHF.gif) no-repeat scroll 0 3px;padding-left:20px;}
+#currency div.c_row .DKK{background:transparent url(wp-content/plugins/turkish-lira-exchange-rates/images/DKK.gif) no-repeat scroll 0 3px;padding-left:20px;}
+#currency div.c_row .EUR{background:transparent url(wp-content/plugins/turkish-lira-exchange-rates/images/EUR.gif) no-repeat scroll 0 3px;padding-left:20px;}
+#currency div.c_row .GBP{background:transparent url(wp-content/plugins/turkish-lira-exchange-rates/images/GBP.gif) no-repeat scroll 0 3px;padding-left:20px;}
+#currency div.c_row .JPY{background:transparent url(wp-content/plugins/turkish-lira-exchange-rates/images/JPY.gif) no-repeat scroll 0 3px;padding-left:20px;}
+#currency div.c_row .KWD{background:transparent url(wp-content/plugins/turkish-lira-exchange-rates/images/KWD.gif) no-repeat scroll 0 3px;padding-left:20px;}
+#currency div.c_row .NOK{background:transparent url(wp-content/plugins/turkish-lira-exchange-rates/images/NOK.gif) no-repeat scroll 0 3px;padding-left:20px;}
+#currency div.c_row .SAR{background:transparent url(wp-content/plugins/turkish-lira-exchange-rates/images/SAR.gif) no-repeat scroll 0 3px;padding-left:20px;}
+#currency div.c_row .SEK{background:transparent url(wp-content/plugins/turkish-lira-exchange-rates/images/SEK.gif) no-repeat scroll 0 3px;padding-left:20px;}
+#currency div.c_row .USD{background:transparent url(wp-content/plugins/turkish-lira-exchange-rates/images/USD.gif) no-repeat scroll 0 3px;padding-left:20px;}
 #currency div.c_info{font-size:0.9em;color:#999;clear:both;text-align:center;font-weight:bold;}
 #currency div.c_credit{font-size:0.9em;color:#999;clear:both;text-align:center;font-weight:bold;}
 #currency div.c_credit a{color:#369;clear:both;text-align:center;font-weight:bold;}

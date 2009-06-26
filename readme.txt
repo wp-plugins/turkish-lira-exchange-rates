@@ -4,7 +4,7 @@ Donate link: http://www.iwasinturkey.com/buy-us-a-beer
 Tags: turkey,turkish,lira,currency,exchange rates,YTL,TL
 Requires at least: 2.8
 Tested up to: 2.8
-Stable tag: 1.0
+Stable tag: 1.1
 
 Display the daily exchange rates from the Central Bank of Turkey (Turkiye Cumhuriyet Merkez Bankasi).
 
@@ -41,4 +41,5 @@ The plugin does not add any calculations or any other modifications on the data.
 1. Screenshot
 
 == Changelog ==
+v1.1 26.06.2009 minor css change and (forgotten)image files were added
 v1.0 26.06.2009 initial release
