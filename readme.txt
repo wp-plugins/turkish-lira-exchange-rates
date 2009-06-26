@@ -6,11 +6,11 @@ Requires at least: 2.8
 Tested up to: 2.8
 Stable tag: 1.0
 
-Display the daily exchange rates from the Central Bank of Turkey (Türkiye Cumhuriyet Merkez Bankasi).
+Display the daily exchange rates from the Central Bank of Turkey (Turkiye Cumhuriyet Merkez Bankasi).
 
 == Description ==
 
-* Display the daily exchange rates from the Central Bank of Turkey (Türkiye Cumhuriyet Merkez Bankasi).
+* Display the daily exchange rates from the Central Bank of Turkey (Turkiye Cumhuriyet Merkez Bankasi).
 * Ability to display 12 different currency rates/TRY.
 * No tables. All design handle by CSS.
 
@@ -30,15 +30,15 @@ You can see the working demo here [Turkish Lira Exchange Rates](http://www.iwasi
 == Frequently Asked Questions ==
 
 = Where does the data come from? =
-Central Bank of Turkey (Türkiye Cumhuriyet Merkez Bankasi)
+Central Bank of Turkey (Turkiye Cumhuriyet Merkez Bankasi)
 
 = How accurate is it? =
-The plugin does not add any calculations or any other modifications on the data. It just displays the data from the daily currency page of Central Bank of Turkey(Türkiye Cumhuriyet Merkez Bankasi).So it is 100% percent accurate according to the bank Rates.
+The plugin does not add any calculations or any other modifications on the data. It just displays the data from the daily currency page of Central Bank of Turkey(Turkiye Cumhuriyet Merkez Bankasi).So it is 100% percent accurate according to the bank Rates.
 
 
 == Screenshots ==
 
-1- Screenshot
+1. Screenshot
 
 == Changelog ==
 v1.0 26.06.2009 initial release
