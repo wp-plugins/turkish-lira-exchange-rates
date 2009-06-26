@@ -1,7 +1,7 @@
 === Turkish Lira Exchange Rates ===
 Contributors: incirusa
 Donate link: http://www.iwasinturkey.com/buy-us-a-beer
-Tags: turkish,lira,currency,exchange rates,YTL,TL
+Tags: turkey,turkish,lira,currency,exchange rates,YTL,TL
 Requires at least: 2.8
 Tested up to: 2.8
 Stable tag: 1.0
