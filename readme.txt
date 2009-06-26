@@ -41,5 +41,10 @@ The plugin does not add any calculations or any other modifications on the data.
 1. Screenshot
 
 == Changelog ==
-v1.1 26.06.2009 minor css change and (forgotten)image files were added
-v1.0 26.06.2009 initial release
+= v1.1 26.06.2009 =
+
+minor css change and (forgotten)image files were added
+
+= v1.0 26.06.2009 =
+
+initial release
