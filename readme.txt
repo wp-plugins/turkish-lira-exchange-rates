@@ -38,7 +38,7 @@ The plugin does not add any calculations or any other modifications on the data.
 
 == Screenshots ==
 
-1- Screenshot
+1. Screenshot
 
 == Changelog ==
 v1.0 26.06.2009 initial release
