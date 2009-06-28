@@ -1,16 +1,16 @@
-=== Turkish Lira Exchange Rates ===
+=== Turkish Lira Exchange Rates (Döviz Kurlari Modülü)===
 Contributors: incirusa
 Donate link: http://www.iwasinturkey.com/buy-us-a-beer
-Tags: turkey,turkish,lira,currency,exchange rates,YTL,TL
+Tags: turkey,turkish,lira,currency,exchange rates,YTL,TL,döviz,döviz kuru,yeni türk lirasi,doviz,yeniturk lirasi
 Requires at least: 2.8
 Tested up to: 2.8
 Stable tag: 1.1
 
-Display the daily exchange rates from the Central Bank of Turkey (Turkiye Cumhuriyet Merkez Bankasi).
+Display the daily exchange rates from the Central Bank of Turkey (Turkiye Cumhuriyeti Merkez Bankasi).
 
 == Description ==
 
-* Display the daily exchange rates from the Central Bank of Turkey (Turkiye Cumhuriyet Merkez Bankasi).
+* Display the daily exchange rates from the Central Bank of Turkey (Turkiye Cumhuriyeti Merkez Bankasi).
 * Ability to display 12 different currency rates/TRY.
 * No tables. All design handle by CSS.
 
@@ -30,10 +30,10 @@ You can see the working demo here [Turkish Lira Exchange Rates](http://www.iwasi
 == Frequently Asked Questions ==
 
 = Where does the data come from? =
-Central Bank of Turkey (Turkiye Cumhuriyet Merkez Bankasi)
+Central Bank of Turkey (Turkiye Cumhuriyeti Merkez Bankasi)
 
 = How accurate is it? =
-The plugin does not add any calculations or any other modifications on the data. It just displays the data from the daily currency page of Central Bank of Turkey(Turkiye Cumhuriyet Merkez Bankasi).So it is 100% percent accurate according to the bank Rates.
+The plugin does not add any calculations or any other modifications on the data. It just displays the data from the daily currency page of Central Bank of Turkey(Turkiye Cumhuriyeti Merkez Bankasi).So it is 100% percent accurate according to the bank Rates.
 
 
 == Screenshots ==
