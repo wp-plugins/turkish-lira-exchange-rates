@@ -10,15 +10,28 @@ Display the daily exchange rates from the Central Bank of Turkey (Turkiye Cumhur
 
 == Description ==
 
+= English =
 * Display the daily exchange rates from the Central Bank of Turkey (Turkiye Cumhuriyeti Merkez Bankasi).
 * Ability to display 12 different currency rates/TRY.
 * No tables. All design handle by CSS.
 
 Turkish Lira Exchange Rates are gathered from The Central Bank of Turkey.
 
-Currency codes; Australian Dollar (AUD), Canadian Dollar (CAD), Swiss Franc (CHF), Swiss Franc (CHF), European Union Euro (EUR), European Union Euro (EUR), Japanese Yen (JPY), Kuwaiti Dinar (KWD), Norwegian Krone (NOK), Saudi Riyal (SAR), Swedish Krona (SEK), United States Dollar (USD)
+Currency codes; Australian Dollar (AUD), Canadian Dollar (CAD), Swiss Franc (CHF), European Union Euro (EUR), European Union Euro (EUR), Japanese Yen (JPY), Kuwaiti Dinar (KWD), Norwegian Krone (NOK), Saudi Riyal (SAR), Swedish Krona (SEK), United States Dollar (USD)
 
 You can see the working demo here [Turkish Lira Exchange Rates](http://www.iwasinturkey.com/turkish-lira-exchange-rates "Turkish Lira Exchange Rates")  and download here [gadgets](http://blog.iwasinturkey.com/category/gadgets "gadgets")
+
+= Turkce =
+
+Döviz Kurlari Modülü
+* Türkiye Cumhuriyeti Merkez Bankasi günlük döviz kurlarini gosterir,
+* 12 degisik kurun Türk Lirasi karsisindaki degerini yayinlama olanagi,
+* Dizayn tablolar olmadan tamami ile CSS ile gerceklestirilimistir,
+* Türkçe ve Ingilizce dil dosyalari paket içindedir,
+* Döviz kurlari; Avustralya Dolari (AUD), Kanada Dolari (ÇAD), Isviçre Frangi  (CHF), Avro (EUR), Japon Yeni (JPY), Kuweyt Dinari (KWD), Norveç Kronu(NOK), Suudi Arabistan Riyali (SAR), Isveç Kronu (SEK), Amerikan Dolari(USD)
+
+Demo versiyon -> [Döviz Kurlari Modülü](http://www.iwasinturkey.com/turkish-lira-exchange-rates "Turkish Lira Exchange Rates")  and indirmek için -> [bilesenler](http://blog.iwasinturkey.com/category/gadgets "gadgets")
+
 
 == Installation ==
 
