@@ -1,7 +1,7 @@
-=== Turkish Lira Exchange Rates (Döviz Kurlari Modülü)===
+=== Turkish Lira Exchange Rates from the Central Bank of Turkey (Doviz Kurlari Modulu)===
 Contributors: incirusa
 Donate link: http://www.iwasinturkey.com/buy-us-a-beer
-Tags: turkey,turkish,lira,currency,exchange rates,YTL,TL,döviz,döviz kuru,yeni türk lirasi,doviz,yeniturk lirasi
+Tags: turkey,turkish,lira,currency,exchange rates,YTL,TL,TRY, doviz kuru,yeni turk lirasi,doviz,yeniturk lirasi
 Requires at least: 2.8
 Tested up to: 2.8
 Stable tag: 1.1
@@ -22,15 +22,13 @@ Currency codes; Australian Dollar (AUD), Canadian Dollar (CAD), Swiss Franc (CHF
 You can see the working demo here [Turkish Lira Exchange Rates](http://www.iwasinturkey.com/turkish-lira-exchange-rates "Turkish Lira Exchange Rates")  and download here [gadgets](http://blog.iwasinturkey.com/category/gadgets "gadgets")
 
 = Turkce =
-
-Döviz Kurlari Modülü
-* Türkiye Cumhuriyeti Merkez Bankasi günlük döviz kurlarini gosterir,
-* 12 degisik kurun Türk Lirasi karsisindaki degerini yayinlama olanagi,
+* Turkiye Cumhuriyeti Merkez Bankasi gunluk doviz kurlarini gosterir,
+* 12 degisik kurun Turk Lirasi karsisindaki degerini yayinlama olanagi,
 * Dizayn tablolar olmadan tamami ile CSS ile gerceklestirilimistir,
-* Türkçe ve Ingilizce dil dosyalari paket içindedir,
-* Döviz kurlari; Avustralya Dolari (AUD), Kanada Dolari (ÇAD), Isviçre Frangi  (CHF), Avro (EUR), Japon Yeni (JPY), Kuweyt Dinari (KWD), Norveç Kronu(NOK), Suudi Arabistan Riyali (SAR), Isveç Kronu (SEK), Amerikan Dolari(USD)
+* Turkçe ve Ingilizce dil dosyalari paket içindedir,
+* Doviz kurlari; Avustralya Dolari (AUD), Kanada Dolari (ÇAD), Isviçre Frangi  (CHF), Avro (EUR), Japon Yeni (JPY), Kuweyt Dinari (KWD), Norveç Kronu(NOK), Suudi Arabistan Riyali (SAR), Isveç Kronu (SEK), Amerikan Dolari(USD)
 
-Demo versiyon -> [Döviz Kurlari Modülü](http://www.iwasinturkey.com/turkish-lira-exchange-rates "Turkish Lira Exchange Rates")  and indirmek için -> [bilesenler](http://blog.iwasinturkey.com/category/gadgets "gadgets")
+Demo versiyon -> [Doviz Kurlari Modulu](http://www.iwasinturkey.com/turkish-lira-exchange-rates "Turkish Lira Exchange Rates")  and indirmek için -> [bilesenler](http://blog.iwasinturkey.com/category/gadgets "gadgets")
 
 
 == Installation ==
@@ -40,7 +38,7 @@ Demo versiyon -> [Döviz Kurlari Modülü](http://www.iwasinturkey.com/turkish-lira
 * Once you upload the plugin activate it through the 'Plugins' menu in WordPress
 * Finally, add the widget to your sidebar through the 'Appearance > Wigdets' menu
 
-== Frequently Asked Questions ==
+== Frequntly Asked Qustions ==
 
 = Where does the data come from? =
 Central Bank of Turkey (Turkiye Cumhuriyeti Merkez Bankasi)
