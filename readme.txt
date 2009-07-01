@@ -28,7 +28,7 @@ You can see the working demo here [Turkish Lira Exchange Rates](http://www.iwasi
 * Turkçe ve Ingilizce dil dosyalari paket içindedir,
 * Doviz kurlari; Avustralya Dolari (AUD), Kanada Dolari (ÇAD), Isviçre Frangi  (CHF), Avro (EUR), Japon Yeni (JPY), Kuweyt Dinari (KWD), Norveç Kronu(NOK), Suudi Arabistan Riyali (SAR), Isveç Kronu (SEK), Amerikan Dolari(USD)
 
-Demo versiyon -> [Doviz Kurlari Modulu](http://www.iwasinturkey.com/turkish-lira-exchange-rates "Turkish Lira Exchange Rates")  and indirmek için -> [bilesenler](http://blog.iwasinturkey.com/category/gadgets "gadgets")
+Demo versiyon -> [Doviz Kurlari Modulu](http://www.iwasinturkey.com/turkish-lira-exchange-rates "Doviz Kurlari Modulu") , indirmek icin -> [bilesenler](http://blog.iwasinturkey.com/category/gadgets "gadgets")
 
 
 == Installation ==
