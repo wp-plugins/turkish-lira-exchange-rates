@@ -6,12 +6,12 @@ Requires at least: 2.8
 Tested up to: 2.8
 Stable tag: 1.1
 
-Display the daily exchange rates from the Central Bank of Turkey (Turkiye Cumhuriyeti Merkez Bankasi).
+Displays the daily exchange rates from the Central Bank of Turkey (Turkiye Cumhuriyeti Merkez Bankasi).
 
 == Description ==
 
 = English =
-* Display the daily exchange rates from the Central Bank of Turkey (Turkiye Cumhuriyeti Merkez Bankasi).
+* Displays the daily exchange rates from the Central Bank of Turkey (Turkiye Cumhuriyeti Merkez Bankasi).
 * Ability to display 12 different currency rates/TRY.
 * No tables. All design handle by CSS.
 
