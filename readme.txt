@@ -19,7 +19,8 @@ Turkish Lira Exchange Rates are gathered from The Central Bank of Turkey.
 
 Currency codes; Australian Dollar (AUD), Canadian Dollar (CAD), Swiss Franc (CHF), European Union Euro (EUR), European Union Euro (EUR), Japanese Yen (JPY), Kuwaiti Dinar (KWD), Norwegian Krone (NOK), Saudi Riyal (SAR), Swedish Krona (SEK), United States Dollar (USD)
 
-You can see the working demo here [Turkish Lira Exchange Rates](http://www.iwasinturkey.com/turkish-lira-exchange-rates "Turkish Lira Exchange Rates")  and download here [gadgets](http://www.mutlubalik.com/mutlubalik/wordpress "gadgets")
+You can see the working demo here [Turkish Lira Exchange Rates](http://www.iwasinturkey.com/turkish-lira-exchange-rates "Turkish Lira Exchange Rates")  and download here [WordPress Plugins](http://www.mutlubalik.com/eng/category/wordpress "WordPress Plugins")
+
 
 = Turkce =
 * Turkiye Cumhuriyeti Merkez Bankasi gunluk doviz kurlarini gosterir,
@@ -28,7 +29,7 @@ You can see the working demo here [Turkish Lira Exchange Rates](http://www.iwasi
 * Turkçe ve Ingilizce dil dosyalari paket içindedir,
 * Doviz kurlari; Avustralya Dolari (AUD), Kanada Dolari (ÇAD), Isviçre Frangi  (CHF), Avro (EUR), Japon Yeni (JPY), Kuweyt Dinari (KWD), Norveç Kronu(NOK), Suudi Arabistan Riyali (SAR), Isveç Kronu (SEK), Amerikan Dolari(USD)
 
-Demo versiyon -> [Doviz Kurlari Modulu](http://www.iwasinturkey.com/turkish-lira-exchange-rates "Doviz Kurlari Modulu") , indirmek icin -> [bilesenler](http://www.mutlubalik.com/mutlubalik/wordpress "gadgets")
+Demo versiyon -> [Doviz Kurlari Modulu](http://www.iwasinturkey.com/turkish-lira-exchange-rates "Doviz Kurlari Modulu") , indirmek icin -> [WordPress Eklentileri](http://www.mutlubalik.com/mutlubalik/wordpress "WordPress Eklentileri")
 
 
 == Installation ==
