@@ -4,7 +4,7 @@ Donate link: http://www.iwasinturkey.com/buy-us-a-beer
 Tags: turkey,turkish,lira,currency,exchange rates,YTL,TL,TRY, doviz kuru,yeni turk lirasi,doviz,yeniturk lirasi,widget,plugin,sidebar
 Requires at least: 2.8
 Tested up to: 2.8.4
-Stable tag: 1.7.1
+Stable tag: 1.7.2
 
 Displays the daily exchange rates from the Central Bank of Turkey (Turkiye Cumhuriyeti Merkez Bankasi).
 
@@ -19,7 +19,7 @@ Turkish Lira Exchange Rates are gathered from The Central Bank of Turkey.
 
 Currency codes; Australian Dollar (AUD), Canadian Dollar (CAD), Swiss Franc (CHF), European Union Euro (EUR), European Union Euro (EUR), Japanese Yen (JPY), Kuwaiti Dinar (KWD), Norwegian Krone (NOK), Saudi Riyal (SAR), Swedish Krona (SEK), United States Dollar (USD)
 
-You can see the working demo here [Turkish Lira Exchange Rates](http://www.iwasinturkey.com/turkish-lira-exchange-rates "Turkish Lira Exchange Rates")  and download here [WordPress Plugins](http://www.lycie.com/blog/category/wordpress "WordPress Plugins")
+You can see the working demo here [Turkish Lira Exchange Rates](http://www.iwasinturkey.com/turkish-lira-exchange-rates "Turkish Lira Exchange Rates")  and download here [WordPress Plugins](http://www.lycie.com/category/wordpress "WordPress Plugins")
 
 
 = Turkce =
