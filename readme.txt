@@ -3,8 +3,8 @@ Contributors: incirusa
 Donate link: http://www.iwasinturkey.com/buy-us-a-beer
 Tags: turkey,turkish,lira,currency,exchange rates,YTL,TL,TRY, doviz kuru,yeni turk lirasi,doviz,yeniturk lirasi,widget,plugin,sidebar
 Requires at least: 2.8
-Tested up to: 2.8.4
-Stable tag: 1.7.7
+Tested up to: 2.8.5
+Stable tag: 1.7.8
 
 Displays the daily exchange rates from the Central Bank of Turkey (Turkiye Cumhuriyeti Merkez Bankasi).
 
