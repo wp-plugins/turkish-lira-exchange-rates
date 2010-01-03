@@ -4,7 +4,7 @@ Donate link: http://www.iwasinturkey.com/buy-us-a-beer?utm_source=wp&utm_medium=
 Tags: turkey,turkish,lira,currency,exchange rates,YTL,TL,TRY, doviz kuru,yeni turk lirasi,doviz,yeniturk lirasi,widget,plugin,sidebar
 Requires at least: 2.8
 Tested up to: 2.9
-Stable tag: 1.9.6
+Stable tag: 1.9.7
 
 
 
