@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Turkish Lira Exchange Rates
-Plugin URI: http://www.iwasinturkey.com/turkish-lira-exchange-rates?utm_source=wp&utm_medium=plgn&utm_campaign=TurkishLira
+Plugin URI: http://www.iwasinturkey.com/turkish-lira-exchange-rates
 Description: Display daily exchange rates from the Central Bank of Turkey (Türkiye Cumhuriyet Merkez Bankasi).
 Author: Onur Kocatas
-Version: 1.9.8.3
-Author URI: http://www.iwasinturkey.com?utm_source=wp&utm_medium=plgn&utm_campaign=TurkishLira
+Version: 1.9.8.4
+Author URI: http://www.iwasinturkey.com
 */
 
 /* Add our function to the widgets_init hook. */
@@ -181,7 +181,8 @@ $display_credit = isset( $instance['display_credit'] ) ? $instance['display_cred
 		if ($findDATE=strpos($row,$DATE)===false){
 		}else{
 		$findDATE=strpos($row,$DATE);
-		$DATEdisplay=trim(substr($row,$findDATE+39,+19));
+		$ondegis = array(' on ' => ' – ');
+		$DATEdisplay=strtr(trim(substr($row,$findDATE+39,+19)),$ondegis);
 		}
 		
 		}
