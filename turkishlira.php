@@ -181,7 +181,7 @@ $display_credit = isset( $instance['display_credit'] ) ? $instance['display_cred
 		if ($findDATE=strpos($row,$DATE)===false){
 		}else{
 		$findDATE=strpos($row,$DATE);
-		$ondegis = array(' on ' => ' – ');
+		$ondegis = array(' on ' => ' - ');
 		$DATEdisplay=strtr(trim(substr($row,$findDATE+39,+19)),$ondegis);
 		}
 		
