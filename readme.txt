@@ -28,7 +28,7 @@ You can see the working demo here [Turkish Lira Exchange Rates](http://www.iwasi
 * Turkiye Cumhuriyeti Merkez Bankasi gunluk doviz kurlarini gosterir,
 * 12 degisik kurun Turk Lirasi karsisindaki degerini yayinlama olanagi,
 * Dizayn tablolar olmadan tamami ile CSS ile gerceklestirilimistir,
-* Turkçe ve Ingilizce dil dosyalari paket içindedir,
+* Turkçe ve Ingilizce dil dosyalari paket içindedir, 
 * Doviz kurlari; Avustralya Dolari (AUD), Kanada Dolari (ÇAD), Isviçre Frangi  (CHF), Avro (EUR), Japon Yeni (JPY), Kuweyt Dinari (KWD), Norveç Kronu(NOK), Suudi Arabistan Riyali (SAR), Isveç Kronu (SEK), Amerikan Dolari(USD)
 
 Demo versiyon -> [Doviz Kurlari Modulu](http://www.iwasinturkey.com/turkish-lira-exchange-rates "Doviz Kurlari Modulu") , indirmek icin -> [WordPress Eklentileri](http://www.mutlubalik.com/mutlubalik/wordpress "WordPress Eklentileri")
