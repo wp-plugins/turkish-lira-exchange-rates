@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Turkish Lira Exchange Rates
-Plugin URI: http://www.iwasinturkey.com/turkish-lira-exchange-rates
+Plugin URI: http://lycie.com
 Description: Display daily exchange rates from the Central Bank of Turkey (Türkiye Cumhuriyet Merkez Bankasi).
 Author: Onur Kocatas
 Version: 2.2
-Author URI: http://www.iwasinturkey.com
+Author URI: http://lycie.com
 */
 
 /* Add our function to the widgets_init hook. */
