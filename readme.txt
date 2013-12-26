@@ -3,8 +3,8 @@ Contributors: incirusa
 Donate link: http://www.iwasinturkey.com/buy-us-a-beer
 Tags: turkey,turkish,lira,currency,exchange rates,YTL,TL,TRY, doviz kuru,yeni turk lirasi,doviz,yeniturk lirasi,widget,plugin,sidebar
 Requires at least: 2.8
-Tested up to: 3.2.1
-Stable tag: 2.1.1
+Tested up to: 3.8
+Stable tag: 2.2
 
 
 
@@ -21,7 +21,7 @@ Turkish Lira Exchange Rates are gathered from The Central Bank of Turkey.
 
 Currency codes; Australian Dollar (AUD), Canadian Dollar (CAD), Swiss Franc (CHF), European Union Euro (EUR), European Union Euro (EUR), Japanese Yen (JPY), Kuwaiti Dinar (KWD), Norwegian Krone (NOK), Saudi Riyal (SAR), Swedish Krona (SEK), United States Dollar (USD)
 
-You can see the working demo here [Turkish Lira Exchange Rates](http://www.iwasinturkey.com/turkish-lira-exchange-rates?utm_source=wp&utm_medium=plgn&utm_campaign=TurkishLira "Turkish Lira Exchange Rates")  and download here [WordPress Plugins](http://www.lycie.com/category/wordpress "WordPress Plugins")
+You can see the working demo here [Turkish Lira Exchange Rates](http://www.iwasinturkey.com/turkish-lira-exchange-rates?utm_source=wp&utm_medium=plgn&utm_campaign=TurkishLira "Turkish Lira Exchange Rates")  and download here [WordPress Plugins](http://www.lycie.com "WordPress Plugins")
 
 
 = Turkce =
@@ -31,7 +31,7 @@ You can see the working demo here [Turkish Lira Exchange Rates](http://www.iwasi
 * Turkce ve Ingilizce dil dosyalari paket icindedir, 
 * Doviz kurlari; Avustralya Dolari (AUD), Kanada Dolari (CAD), Isvicre Frangi  (CHF), Avro (EUR), Japon Yeni (JPY), Kuweyt Dinari (KWD), Norvec Kronu(NOK), Suudi Arabistan Riyali (SAR), Isvec Kronu (SEK), Amerikan Dolari(USD)
 
-Demo versiyon -> [Doviz Kurlari Modulu](http://www.iwasinturkey.com/turkish-lira-exchange-rates "Doviz Kurlari Modulu") , indirmek icin -> [WordPress Eklentileri](http://www.mutlubalik.com/mutlubalik/wordpress "WordPress Eklentileri")
+Demo versiyon -> [Doviz Kurlari Modulu](http://www.iwasinturkey.com/turkish-lira-exchange-rates "Doviz Kurlari Modulu") , indirmek icin -> [WordPress Eklentileri](http://lycie.com "WordPress Eklentileri")
 
 
 == Installation ==
