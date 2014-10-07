@@ -4,7 +4,7 @@ Plugin Name: Turkish Lira Exchange Rates
 Plugin URI: http://lycie.com
 Description: Display daily exchange rates from the Central Bank of Turkey (Türkiye Cumhuriyet Merkez Bankasi).
 Author: Onur Kocatas
-Version: 3
+Version: 3.1
 Author URI: http://lycie.com
 */
 
@@ -70,7 +70,7 @@ class Turkish_Lira_Widget extends WP_Widget {
 #currency div.odd {background:#efefef;}
 #currency div.c_row .c_symbol{float:left;padding-left:20px;background:transparent no-repeat scroll 0 3px;}
 #currency div.difi{background:#efefef;}
-#currency div.c_row div.c_rate{min-width:50px;float:right;text-align:right;padding:0px 4px 0 0;}
+#currency div.c_row div.c_rate{float: right;overflow: hidden;padding: 0 4px 0 0;text-align: right;width: 49px;}
 #currency div.c_header div.c_rate{min-width:50px;float:right;text-align:center;font-weight:bold;padding:0px;}
 #currency div.c_row .AUD{background-image:url(wp-content/plugins/turkish-lira-exchange-rates/AUD.gif);}
 #currency div.c_row .CAD{background-image:url(wp-content/plugins/turkish-lira-exchange-rates/CAD.gif);}
@@ -113,52 +113,52 @@ if ($rates == false) {
 		$currency = $Currency->{'CurrencyName'};	
 		switch ($currency) {
 			case $AUD:
-			$AUDbuy = number_format(substr(trim($Currency->{'ForexBuying'}),0,4),4);
-			$AUDsell = number_format(substr(trim($Currency->{'ForexSelling'}),0,4),4);
+			$AUDbuy = number_format(substr(trim($Currency->{'ForexBuying'}),0,6),4);
+			$AUDsell = number_format(substr(trim($Currency->{'ForexSelling'}),0,6),4);
 			break;
 			case $CAD:
-			$CADbuy = number_format(substr(trim($Currency->{'ForexBuying'}),0,4),4);
-			$CADsell = number_format(substr(trim($Currency->{'ForexSelling'}),0,4),4);
+			$CADbuy = number_format(substr(trim($Currency->{'ForexBuying'}),0,6),4);
+			$CADsell = number_format(substr(trim($Currency->{'ForexSelling'}),0,6),4);
 			break;
 			case $CHF:
-			$CHFbuy = number_format(substr(trim($Currency->{'ForexBuying'}),0,4),4);
-			$CHFsell = number_format(substr(trim($Currency->{'ForexSelling'}),0,4),4);
+			$CHFbuy = number_format(substr(trim($Currency->{'ForexBuying'}),0,6),4);
+			$CHFsell = number_format(substr(trim($Currency->{'ForexSelling'}),0,6),4);
 			break;
 			case $EUR:
-			$EURbuy = number_format(substr(trim($Currency->{'ForexBuying'}),0,4),4);
-			$EURsell = number_format(substr(trim($Currency->{'ForexSelling'}),0,4),4);
+			$EURbuy = number_format(substr(trim($Currency->{'ForexBuying'}),0,6),4);
+			$EURsell = number_format(substr(trim($Currency->{'ForexSelling'}),0,6),4);
 			break;
 			case $DKK:
-			$DKKbuy = number_format(substr(trim($Currency->{'ForexBuying'}),0,4),4);
-			$DKKsell = number_format(substr(trim($Currency->{'ForexSelling'}),0,4),4);
+			$DKKbuy = number_format(substr(trim($Currency->{'ForexBuying'}),0,6),4);
+			$DKKsell = number_format(substr(trim($Currency->{'ForexSelling'}),0,6),4);
 			break;
 			case $GBP:
-			$GBPbuy = number_format(substr(trim($Currency->{'ForexBuying'}),0,4),4);
-			$GBPsell = number_format(substr(trim($Currency->{'ForexSelling'}),0,4),4);
+			$GBPbuy = number_format(substr(trim($Currency->{'ForexBuying'}),0,6),4);
+			$GBPsell = number_format(substr(trim($Currency->{'ForexSelling'}),0,6),4);
 			break;
 			case $JPY:
-			$JPYbuy = number_format(substr(trim($Currency->{'ForexBuying'}),0,4),4);
-			$JPYsell = number_format(substr(trim($Currency->{'ForexSelling'}),0,4),4);
+			$JPYbuy = number_format(substr(trim($Currency->{'ForexBuying'}),0,6),4);
+			$JPYsell = number_format(substr(trim($Currency->{'ForexSelling'}),0,6),4);
 			break;
 			case $KWD:
-			$KWDbuy = number_format(substr(trim($Currency->{'ForexBuying'}),0,4),4);
-			$KWDsell = number_format(substr(trim($Currency->{'ForexSelling'}),0,4),4);
+			$KWDbuy = number_format(substr(trim($Currency->{'ForexBuying'}),0,6),4);
+			$KWDsell = number_format(substr(trim($Currency->{'ForexSelling'}),0,6),4);
 			break;
 			case $NOK:
-			$NOKbuy = number_format(substr(trim($Currency->{'ForexBuying'}),0,4),4);
-			$NOKsell = number_format(substr(trim($Currency->{'ForexSelling'}),0,4),4);
+			$NOKbuy = number_format(substr(trim($Currency->{'ForexBuying'}),0,6),4);
+			$NOKsell = number_format(substr(trim($Currency->{'ForexSelling'}),0,6),4);
 			break;
 			case $SAR:
-			$SARbuy = number_format(substr(trim($Currency->{'ForexBuying'}),0,4),4);
-			$SARsell = number_format(substr(trim($Currency->{'ForexSelling'}),0,4),4);
+			$SARbuy = number_format(substr(trim($Currency->{'ForexBuying'}),0,6),4);
+			$SARsell = number_format(substr(trim($Currency->{'ForexSelling'}),0,6),4);
 			break;
 			case $SEK:
-			$SEKbuy = number_format(substr(trim($Currency->{'ForexBuying'}),0,4),4);
-			$SEKsell = number_format(substr(trim($Currency->{'ForexSelling'}),0,4),4);
+			$SEKbuy = number_format(substr(trim($Currency->{'ForexBuying'}),0,6),4);
+			$SEKsell = number_format(substr(trim($Currency->{'ForexSelling'}),0,6),4);
 			break;
 			case $USD:
-			$USDbuy = number_format(substr(trim($Currency->{'ForexBuying'}),0,4),4);
-			$USDsell = number_format(substr(trim($Currency->{'ForexSelling'}),0,4),4);
+			$USDbuy = number_format(substr(trim($Currency->{'ForexBuying'}),0,6),4);
+			$USDsell = number_format(substr(trim($Currency->{'ForexSelling'}),0,6),4);
 			break;
 		}
 	}
