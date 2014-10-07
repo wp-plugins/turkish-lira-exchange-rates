@@ -3,8 +3,8 @@ Contributors: incirusa
 Donate link: http://www.iwasinturkey.com/buy-us-a-beer
 Tags: turkey,turkish,lira,currency,exchange rates,YTL,TL,TRY, doviz kuru,yeni turk lirasi,doviz,yeniturk lirasi,widget,plugin,sidebar
 Requires at least: 2.8
-Tested up to: 3.8
-Stable tag: 2.2
+Tested up to: 4
+Stable tag: 3
 
 
 
